@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Mohamed Ahmed Khalil 👋
 
-<!--
-**mohammd-khalil/mohammd-khalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **DevOps Engineer** and Computer and Communications Engineering student at Mansoura University.
 
-Here are some ideas to get you started:
+I’m interested in building reliable infrastructure, automating workflows, and deploying scalable applications. I have practical experience with Linux administration, containers, Kubernetes, and CI/CD pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **Operating Systems:** Ubuntu, Red Hat Enterprise Linux
+- **DevOps:** Docker, Docker Compose, Docker Swarm, Kubernetes, Helm
+- **CI/CD:** GitHub Actions, GitLab CI
+- **Automation:** Bash/Shell Scripting
+- **Cloud:** AWS
+- **Programming:** Python, C
+- **Databases:** MySQL
+- **Other:** Git, YAML, Networking
+
+## 📌 Currently Learning
+
+- Infrastructure as Code
+- Advanced Kubernetes and DevOps practices
+
+## 📫 Connect With Me
+
+- Email: [mohammdahmedkhalil@gmail.com](mailto:mohammdahmedkhalil@gmail.com)
+- LinkedIn: [Mohamed Ahmed Khalil](https://linkedin.com/in/mohammed-ahmed-khalil)
+- GitHub: [@mohammd-khalil]([https://github.com/mohammd-khalil](https://github.com/mohammd-khalil/mohammd-khalil))
