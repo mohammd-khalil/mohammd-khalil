@@ -13,7 +13,7 @@ I’m interested in building reliable infrastructure, automating workflows, and 
 - **Cloud:** AWS
 - **Programming:** Python, C
 - **Databases:** MySQL
-- **Other:** Git, YAML, Networking
+- **IaC** : Terraform & Ansible
 
 ## 📌 Currently Learning
 
