@@ -17,8 +17,9 @@ I’m interested in building reliable infrastructure, automating workflows, and 
 
 ## 📌 Currently Learning
 
-- Infrastructure as Code
 - Advanced Kubernetes and DevOps practices
+- Monitoring tools
+- GitOps
 
 ## 📫 Connect With Me
 
