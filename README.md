@@ -14,6 +14,7 @@ I’m interested in building reliable infrastructure, automating workflows, and 
 - **Programming:** Python, C
 - **Databases:** MySQL
 - **IaC** : Terraform & Ansible
+- **Monitoring** : Prometheus & Grafana
 
 ## 📌 Currently Learning
 
